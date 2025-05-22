@@ -1,4 +1,4 @@
-module "nixos_tinker" {
+module "gh-nixos-tinker-001" {
   source = "./modules/instance"
 
   label           = "gh-nixos-tinker-001"
